@@ -68,4 +68,13 @@ height: 30px;
 }
 
 
-
+.image-container {
+      display: flex;
+      justify-content: center; /* Centers the images horizontally */
+      align-items: center; /* Centers the images vertically */
+      gap: 20px; /* Adds space between the images */
+}
+img {
+      max-width: 100%; /* Ensures the images are responsive */
+      height: auto;
+}
