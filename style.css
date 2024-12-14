@@ -40,6 +40,10 @@ body {
   padding: 1.2px;
 }
 
+.column2 {
+  float: left;
+}
+
 .twoColumn {
   float: left;
   width: 50%;
@@ -60,7 +64,7 @@ height: 30px;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
-    max-width: 1000px;
+    max-width: 100%;
 }
 
 
