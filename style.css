@@ -75,7 +75,7 @@ height: 30px;
       gap: 20px; /* Adds space between the images */
 }
 
-header {
+.head {
   position: fixed;
   top: 0;
   left: 0;
